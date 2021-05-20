@@ -8,3 +8,6 @@ Hearth OS is an Open Source operating system with community put in mind.
 
 ## 📚 Wiki
 Go there [💾 load up your floppy](https://github.com/Hearth-OS/hearth-os.github.io/wiki).
+
+## 😀 Sponsors
+Check out our amazing [sponsors](sponsors.md).
