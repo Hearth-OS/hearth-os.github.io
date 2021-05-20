@@ -6,5 +6,5 @@ Hearth OS is an Open Source operating system with community put in mind.
 ### Rules
 [Citizen Code of Conduct](community/CODE_OF_CONDUCT.md) and [Contributing guidelines](community/CONTRIBUTING.md).
 
-## 📚 WiKi
-Comming soon.
+## 📚 Wiki
+Go there [💾 load up your floppy](https://github.com/Hearth-OS/hearth-os.github.io/wiki).
