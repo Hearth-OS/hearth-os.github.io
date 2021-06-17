@@ -18,5 +18,8 @@ Check out our amazing [sponsors](sponsors.md).
 
 Join [Discord](https://discord.gg/aQMHv95FAh).
 
-# IRC
+### Nertivia
+Join [Nertivia](https://nertivia.net/i/sDLpmg).
+
+### IRC
 Comming soon...
